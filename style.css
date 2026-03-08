@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#box1{
+    Width:800px;
+    Height:500px;
+    background-color:black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#box2{
+    width:300px;
+    height:200px;
+    background-image:url("onlineshop.jpg");
+    background-size:cover;
+}
+
+button{
+    background-color:orange;
+}
+
+a{
+    color:black;
+    text-decoration:none;
+}

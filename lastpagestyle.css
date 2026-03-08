@@ -1,0 +1,25 @@
+div{
+    width:500px;
+    height:500px;
+    border:2px solid white;
+    background-image:url("order confirmed image.jpg");
+    background-size:cover;
+    display:inline;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+button{
+    display:block;
+    background-color: blue;
+}
+
+a{
+    display:block;
+    color:whitesmoke;
+    text-decoration:none;
+}

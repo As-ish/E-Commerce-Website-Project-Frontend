@@ -1,0 +1,45 @@
+body{
+    background-color: lightgrey;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+
+div{
+    width:300px;
+    height:300px;
+    display:inline-block;
+    border:2px solid black;
+    border-radius:8px;
+}
+
+#box1{
+    background-image:url("fridge.webp");
+    background-size:cover;
+}
+
+#box2{
+    background-image:url("ac.jpeg");
+    background-size:cover;
+}
+
+#box3{
+    background-image:url("washing machine.avif");
+    background-size:cover;
+}
+
+#orange{
+    background-color:orangered;
+}
+
+button{
+    background-color:yellow;
+}
+
+a{
+    color:azure;
+    text-decoration:none;
+}

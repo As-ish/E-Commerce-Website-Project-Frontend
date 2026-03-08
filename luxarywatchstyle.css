@@ -1,0 +1,42 @@
+body{
+    background-color: lightgrey;
+}
+
+h1{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+
+div{
+    width:300px;
+    height:300px;
+    display:inline-block;
+    border:2px solid black;
+    border-radius:8px;
+    background-image:url("titan.jpg");
+    background-size:cover;
+}
+
+#box1{
+    background-image:url("titan watch.jpg");
+    background-size:cover;
+}
+
+#orange{
+    background-color:orangered;
+}
+
+button{
+    background-color:yellow;
+}
+
+#box3{
+    background-image:url("sonata.jpg");
+    background-size:cover;
+}
+
+a{
+    color:azure;
+    text-decoration:none;
+}
